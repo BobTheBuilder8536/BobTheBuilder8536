@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @BobTheBuilder8536
 - 👀 I’m interested in Competitive and Robotic Programming.
-- 🌱 I’m currently learning c++ for Competitive Programming and building robotic prototypes.
